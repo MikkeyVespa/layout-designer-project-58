@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Neucha;
+    src: url("../fonts/Neucha-Regular.ttf");
+  }
+  
+  @font-face {
+    font-family: OpenSans;
+    src: url("../fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+  }
+
+body {
+    color: #2a2626;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+  }
+  
+  h1, h2, h3 {
+    line-height: 1.2em;
+    color: #2a2626;
+  }
+  
+  h1 {
+    font-size: 72px;
+  }
+  
+  h2 {
+    font-size: 60px;
+  }
+  
+  h3 {
+    font-size: 34px;
+  }
+  
+  .container {
+    max-width: 1110px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+  }
+  
+  /* Цвета */
+  .white {
+    color: #fff;
+  }
+  
+  .semi-transparent-white {
+    color: #d7ccc0;
+  }
+  
+  .light {
+    color: #f5f4f0;
+  }
+  
+  .primary {
+    color: #fe8a02;
+  }
+  
+  .dark-primary {
+    color: #42413c;
+  }
+  
+  .dark {
+    color: #2a2626;
+  }
+  
+  .semi-transparent-dark {
+    color: #908d8b;
+  }
+  
+  .brown {
+    color: #b09a81;
+  }
+  
+  .blue {
+    color: #1085c5;
+  }
+  
